@@ -71,7 +71,7 @@ Retail-Business-Data-Analysis/
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/your-username/Retail-Business-Data-Analysis.git  
+   git clone https://github.com/RudraBhagat/Retail-Business-Data-Analysis.git  
 
 2. Navigate to the project folder:
    cd Retail-Business-Data-Analysis  
